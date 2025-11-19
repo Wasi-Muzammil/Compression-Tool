@@ -1,0 +1,36 @@
+**About File Compressor Tool**
+
+**Overview**
+
+File Compressor Tool is a powerful and user-friendly application designed to compress a wide range of file formats, including audio, video, images, and documents. Our tool uses advanced compression algorithms to reduce the size of files while maintaining their quality, making it an essential utility for individuals and organizations looking to save storage space and bandwidth.
+
+**Supported File Formats**
+
+* **Audio Files**: WAV
+* **Video Files**: MP4, GIF, MOV
+* **Image Files**: PNG, JPG, JPEG
+* **Document Files**: TXT, PDF, DOCX
+* **Spreadsheet Files**: CSV
+
+**Key Features**
+
+* Compress files quickly and efficiently
+* Support for a wide range of file formats
+* User-friendly interface
+* Fast and reliable compression algorithms
+* No file size limits
+
+**How it Works**
+
+Our tool uses advanced compression algorithms to analyze and compress files, reducing their size while maintaining their quality. Simply upload your file, select the compression settings, and our tool will do the rest.
+
+**Benefits**
+
+* Save storage space and bandwidth
+* Reduce file transfer times
+* Improve website and application performance
+* Enhance collaboration and sharing
+
+**Contact Us**
+
+If you have any questions or need help with using our tool, please don't hesitate to reach out. We're here to help!
